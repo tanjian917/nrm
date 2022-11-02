@@ -87,7 +87,7 @@ Usage: nrm [options] [command]
 * [nodejitsu](https://www.nodejitsu.com)
 * [taobao](https://npmmirror.com)
 * [huawei](https://mirrors.huaweicloud.com/)
-* 
+
 ## Related Projects
 
 * [verdaccio--A lightweight private npm proxy registry](https://verdaccio.org/)
