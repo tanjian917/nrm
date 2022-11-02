@@ -22,5 +22,9 @@
   "npmMirror": {
     "home": "https://skimdb.npmjs.com/",
     "registry": "https://skimdb.npmjs.com/registry/"
+  },
+  "huawei": {
+    "home": "https://mirrors.huaweicloud.com/",
+    "registry": "https://mirrors.huaweicloud.com/repository/npm/"
   }
 }
